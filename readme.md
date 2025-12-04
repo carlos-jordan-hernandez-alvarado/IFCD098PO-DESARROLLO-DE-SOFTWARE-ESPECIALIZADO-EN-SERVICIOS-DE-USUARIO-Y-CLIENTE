@@ -22,12 +22,11 @@ Este curso está diseñado para que desarrolles software enfocado en mejorar la 
 - Integración de tecnologías modernas en entornos cliente-servidor
 - Documentación técnica profesional con Markdown
 - Trabajo colaborativo con herramientas como Git y GitHub
-
+- Semantica Web
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 - HTML, CSS, JavaScript
-- APIs RESTful
-- Control de versiones con Git
+- Control de versiones con Git y GitHub
 - Documentación técnica con Markdown 
