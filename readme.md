@@ -27,6 +27,8 @@ Este curso está diseñado para que desarrolles software enfocado en mejorar la 
 
 ## 🛠️ Tecnologías y herramientas
 
-- HTML, CSS, JavaScript
-- Control de versiones con Git y GitHub
-- Documentación técnica con Markdown 
+- **HTML, CSS, JavaScript**
+- Control de versiones con **Git GitHub**
+- Documentación técnica con Markdown
+- Code Editor **Visual Studio Code**
+- Online Code Editor **CodePen**
