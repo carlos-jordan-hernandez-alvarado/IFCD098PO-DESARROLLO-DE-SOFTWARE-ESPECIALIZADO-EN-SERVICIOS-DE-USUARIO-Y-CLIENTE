@@ -31,4 +31,4 @@ Este curso está diseñado para que desarrolles software enfocado en mejorar la 
 - Control de versiones con **Git GitHub**
 - Documentación técnica con Markdown
 - Code Editor **Visual Studio Code**
-- Online Code Editor **CodePen**
+- Online Code Editor **[CodePen](https://codepen.io/collection/QbdNPJ)**
